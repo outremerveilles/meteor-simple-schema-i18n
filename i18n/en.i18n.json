@@ -1,6 +1,7 @@
 {
   "simpleschema": {
     "messages": {
+      "domainNotOrderable": "the domain name is not buyable",
       "required": "[label] is required",
       "minString": "[label] must be at least [min] characters",
       "maxString": "[label] cannot exceed [max] characters",
