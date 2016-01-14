@@ -1,6 +1,7 @@
 {
   "simpleschema": {
     "messages": {
+      "domainNotOrderable": "le nom de domaine n'est pas libre",
       "required": "Le champ [label] est obligatoire",
       "minString": "Le champ [label] doit comporter au moins [min] caractères",
       "maxString": "Le champ [label] doit comporter au plus [max] caractères",
